@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/tupian19"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian18"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian17"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian16"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian15"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian14"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian13"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian12"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian11"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian10"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian9"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian8"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian7"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian6"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian2"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/tupian1"
+        android:duration="200" />
+
+</animation-list>
